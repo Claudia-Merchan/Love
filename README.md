@@ -1,3 +1,6 @@
 # Love - What is it?
-*What is the opposite of love
-**The opposite is indifference
+* What is the opposite of love?
+* The opposite is indifference.
+
+# Hate - what is it?
+* The intense dislike.
